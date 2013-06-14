@@ -6,6 +6,15 @@
     "node": ">= 0.8.14",
     "npm": "1.1.x"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Maciek416/fueleconomy.git"
+  },
   "dependencies": {
-  }
+  },
+  "keywords": [
+    "automotive", "cars", "fuel", "travel", "transportation"
+  ],
+  "author": "Maciej Adwent (http://github.com/Maciek416)",
+  "license": "BSD"
 }

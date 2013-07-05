@@ -6,7 +6,7 @@ A node module for computing fuel economy and related measurements
 
 ## Current Version
 
-0.0.2
+0.0.4
 
 ## Installing
 

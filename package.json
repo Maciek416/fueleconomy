@@ -1,6 +1,7 @@
 {
   "name": "fueleconomy",
-  "version": "0.0.4",
+  "version": "0.0.5",
+  "description": "A module for computing automotive fuel economy and related measurements",
   "private": false,
   "engines": {
     "node": ">= 0.8.14",

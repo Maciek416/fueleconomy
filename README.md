@@ -15,9 +15,19 @@ A node module for computing fuel economy and related measurements
 ## How to Use
 
     var fuel = require('fueleconomy');
-
-    fuel.conversions.mpg_Lper100km(10); // 23.52
-
-    fuel.consumption.mpg(100, 10); // 10
-
-    fuel.range.miles(10, 100); // 1000
+  
+    > fuel("65mpg").to("L/100km");
+    
+    3.6184615384615384
+  
+    > fuel("100mpg").to("L/100km")
+    
+    2.352
+  
+    > fuel("100mpg").to("km/L")
+    
+    42.51700680272109
+    
+    > fuel("42.517km/L").to("mpg")
+    
+    99.99998400000001

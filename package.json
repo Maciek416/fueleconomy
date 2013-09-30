@@ -12,6 +12,13 @@
     "type": "git",
     "url": "git://github.com/Maciek416/fueleconomy.git"
   },
+  "devDependencies": {
+    "mocha": ">= 1.9.0",
+    "should": ">= 1.2.2"
+  },
+  "scripts": {
+    "test": "make test"
+  },
   "dependencies": {
   },
   "keywords": [

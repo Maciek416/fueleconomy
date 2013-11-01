@@ -4,11 +4,9 @@
 
 A node module for computing fuel economy and related measurements
 
-## Current Version
+## Current Version / Installation
 
-0.0.4
-
-## Installing
+[![NPM](https://nodei.co/npm/address-gps.png)](https://nodei.co/npm/address-gps/)
 
     > npm install fueleconomy
 
